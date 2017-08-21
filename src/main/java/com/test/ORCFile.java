@@ -88,6 +88,6 @@ public class ORCFile {
         // }
         // writer.addRowBatch(batch);
         // writer.close();
-        
+       System.out.println("你好");
     }
 }
